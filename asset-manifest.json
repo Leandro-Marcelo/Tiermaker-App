@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/tiermaker/static/css/main.26cd5e2a.css",
-    "main.js": "/tiermaker/static/js/main.b949f7b4.js",
-    "static/media/3.webp": "/tiermaker/static/media/3.7917f2e221984cccd964.webp",
-    "static/media/9.webp": "/tiermaker/static/media/9.9be76dc6493d2de4d486.webp",
-    "static/media/7.webp": "/tiermaker/static/media/7.b4fc1a7a18efed4e5472.webp",
-    "static/media/10.webp": "/tiermaker/static/media/10.6c4f89b31a3c9f27a43c.webp",
-    "static/media/4.webp": "/tiermaker/static/media/4.e465e7e96d448fbcecdc.webp",
-    "static/media/5.webp": "/tiermaker/static/media/5.67b1f9027149d3368e42.webp",
-    "static/media/11.webp": "/tiermaker/static/media/11.f998c3e25cd9abe2dbaf.webp",
-    "static/media/1.webp": "/tiermaker/static/media/1.b8f459217c70aeba535c.webp",
-    "static/media/2.webp": "/tiermaker/static/media/2.7cc4fefca7c4f21562e2.webp",
-    "static/media/8.webp": "/tiermaker/static/media/8.10c58da89935700d8a31.webp",
-    "static/media/6.webp": "/tiermaker/static/media/6.32a0f13db4f84affe8f9.webp",
-    "index.html": "/tiermaker/index.html",
-    "main.26cd5e2a.css.map": "/tiermaker/static/css/main.26cd5e2a.css.map",
-    "main.b949f7b4.js.map": "/tiermaker/static/js/main.b949f7b4.js.map"
+    "main.css": "/static/css/main.26cd5e2a.css",
+    "main.js": "/static/js/main.f847f28a.js",
+    "static/media/3.webp": "/static/media/3.7917f2e221984cccd964.webp",
+    "static/media/9.webp": "/static/media/9.9be76dc6493d2de4d486.webp",
+    "static/media/7.webp": "/static/media/7.b4fc1a7a18efed4e5472.webp",
+    "static/media/10.webp": "/static/media/10.6c4f89b31a3c9f27a43c.webp",
+    "static/media/4.webp": "/static/media/4.e465e7e96d448fbcecdc.webp",
+    "static/media/5.webp": "/static/media/5.67b1f9027149d3368e42.webp",
+    "static/media/11.webp": "/static/media/11.f998c3e25cd9abe2dbaf.webp",
+    "static/media/1.webp": "/static/media/1.b8f459217c70aeba535c.webp",
+    "static/media/2.webp": "/static/media/2.7cc4fefca7c4f21562e2.webp",
+    "static/media/8.webp": "/static/media/8.10c58da89935700d8a31.webp",
+    "static/media/6.webp": "/static/media/6.32a0f13db4f84affe8f9.webp",
+    "index.html": "/index.html",
+    "main.26cd5e2a.css.map": "/static/css/main.26cd5e2a.css.map",
+    "main.f847f28a.js.map": "/static/js/main.f847f28a.js.map"
   },
   "entrypoints": [
     "static/css/main.26cd5e2a.css",
-    "static/js/main.b949f7b4.js"
+    "static/js/main.f847f28a.js"
   ]
 }
