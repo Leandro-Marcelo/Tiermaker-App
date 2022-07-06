@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tiermaker-App/static/css/main.26cd5e2a.css",
-    "main.js": "/Tiermaker-App/static/js/main.0a2bc743.js",
+    "main.js": "/Tiermaker-App/static/js/main.42c215fe.js",
     "static/media/3.webp": "/Tiermaker-App/static/media/3.7917f2e221984cccd964.webp",
     "static/media/9.webp": "/Tiermaker-App/static/media/9.9be76dc6493d2de4d486.webp",
     "static/media/7.webp": "/Tiermaker-App/static/media/7.b4fc1a7a18efed4e5472.webp",
@@ -15,10 +15,10 @@
     "static/media/6.webp": "/Tiermaker-App/static/media/6.32a0f13db4f84affe8f9.webp",
     "index.html": "/Tiermaker-App/index.html",
     "main.26cd5e2a.css.map": "/Tiermaker-App/static/css/main.26cd5e2a.css.map",
-    "main.0a2bc743.js.map": "/Tiermaker-App/static/js/main.0a2bc743.js.map"
+    "main.42c215fe.js.map": "/Tiermaker-App/static/js/main.42c215fe.js.map"
   },
   "entrypoints": [
     "static/css/main.26cd5e2a.css",
-    "static/js/main.0a2bc743.js"
+    "static/js/main.42c215fe.js"
   ]
 }
