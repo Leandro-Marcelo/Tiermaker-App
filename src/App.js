@@ -1,11 +1,12 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import TaskApp from "./pages/TaskApp";
+
+import Tiermaker from "./pages/Tiermaker";
 
 function App() {
     return (
         <BrowserRouter>
             <Routes>
-                <Route path="taskapp" element={<TaskApp />} />
+                <Route path="/" element={<Tiermaker />} />
             </Routes>
         </BrowserRouter>
     );

@@ -1,3 +1,73 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+.img {
+    width: 100%;
+    height: 100%;
+}
+
+.container-lean {
+    display: flex;
+    flex-direction: column;
+}
+
+.column-container {
+    border: 1px solid #000;
+    border-radius: 2px;
+    display: flex;
+    /* debo darselo al column container porque el height de task-list es 0 */
+    background-color: #1a1a17;
+}
+
+.column-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 130px;
+    min-height: 130px;
+    margin: 0;
+    border-right: 1px solid #000;
+}
+
+.task-list {
+    display: flex;
+    transition: background-color 0.2s ease;
+    flex-grow: 1;
+    flex-wrap: wrap;
+}
+
+.task-container {
+    width: 130px;
+    height: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.task-container:focus {
+    outline: none;
+    border-color: red;
+}
+
+/* utils especialmente para el drag and drop */
+
+.bg-S {
+    background-color: rgb(255, 127, 127);
+}
+
+.bg-A {
+    background-color: rgb(255, 191, 127);
+}
+
+.bg-B {
+    background-color: rgb(255, 223, 127);
+}
+
+.bg-C {
+    background-color: #ffff7f;
+}
+
+.bg-D {
+    background-color: rgb(191, 255, 127);
+}
+
+.bg-images {
+    background-color: rgb(127, 255, 127);
+}
